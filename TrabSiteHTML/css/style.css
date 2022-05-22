@@ -1,0 +1,19 @@
+body,html{
+    margin: 0;
+    height: 100%;
+}
+
+.bg{
+    background-image: url(../img/fundo\ 5.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+.texto1{
+    font-family: Impact;
+    font-size: 100px;
+    color: #F03F37;
+
+}
